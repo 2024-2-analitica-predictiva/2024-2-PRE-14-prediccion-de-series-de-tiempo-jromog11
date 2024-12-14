@@ -1,0 +1,5 @@
+Metrics,yt_pred_d1d12_mlp
+MSE Train,116706.35
+MSE Test,208249.12
+MAE Train,237.88
+MAE Test,302.35
